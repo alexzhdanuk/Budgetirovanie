@@ -7,7 +7,7 @@ using System.Data.Odbc;
 using System.Data;
 using System.Windows.Forms;
 
-
+//add to contorl version
 namespace Budgetirovanie
 {
     

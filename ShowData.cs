@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+//add to contorl version
 namespace Budgetirovanie
 {
     public partial class ShowData : UserControl
